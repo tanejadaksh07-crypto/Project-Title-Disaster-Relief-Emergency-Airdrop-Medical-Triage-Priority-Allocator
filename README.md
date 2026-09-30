@@ -1,0 +1,2 @@
+# Project-Title-Disaster-Relief-Emergency-Airdrop-Medical-Triage-Priority-Allocator
+ Objective: To develop a rapid-response logistics coordination tool for natural disaster zones (such as floods or earthquakes) that analyzes incoming SOS requests, accessibility constraints, and perishable relief inventory to dynamically schedule payload drops and prioritize life-saving supplies for isolated shelters.
